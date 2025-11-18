@@ -43,8 +43,11 @@ Differential amplifier
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-18 at 10 14 42_f4ca75a4](https://github.com/user-attachments/assets/9867b12f-51e4-4ff3-93d9-714f87950681)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-18 at 10 14 43_3d068af2](https://github.com/user-attachments/assets/ff24c414-7272-4ebc-a633-00e656958877)
 
 
 ## RESULT:                   
+![WhatsApp Image 2025-11-17 at 12 46 35_62d9a268](https://github.com/user-attachments/assets/5f5cfb28-f626-44d8-926d-83857f2e8177)
